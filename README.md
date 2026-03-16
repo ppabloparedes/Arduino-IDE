@@ -5,7 +5,6 @@ Este proyecto utiliza un sensor ultrasónico HC-SR04 con Arduino IDE para medir 
 
 ## 📸 Diagrama de Conexión
 ![Diagrama de conexión](Diagrama%20de%20conexi%C3%B3n.PNG)
-https://github.com/ppabloparedes/Arduino-IDE/blob/dfe597e240ed1a3d6364bf78e16b68d6514d0894/Diagrama%20de%20conexi%C3%B3n.PNG
 
 ## 💻 Código Arduino
 
