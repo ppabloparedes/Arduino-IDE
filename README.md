@@ -4,7 +4,7 @@
 Este proyecto utiliza un sensor ultrasónico HC-SR04 con Arduino IDE para medir distancias.
 
 ## 📸 Diagrama de Conexión
-![Diagrama de conexión](Diagrama%20de%20conexi%C3%B3n.PNG)
+![Diagrama de conexión](Diagrama%20de%20conexi%C3%B3n.png)
 
 ## 💻 Código Arduino
 
