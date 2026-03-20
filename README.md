@@ -51,7 +51,7 @@ void loop() {
 ```
 
 ## 🔧 Componentes Necesarios
-- Arduino UNO
+- Arduino UNO + Cable USB
 - Sensor Ultrasónico HC-SR04
 - Cables de conexión (Jumper)
 - Protoboard (Opcional)
